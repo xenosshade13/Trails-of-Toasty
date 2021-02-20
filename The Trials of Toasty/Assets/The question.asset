@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 423b6d16b78fbdc4ab9c6a91a5fb7fc8, type: 3}
+  m_Name: The question
+  m_EditorClassIdentifier: 
+  gameText: '"Is it not the Toastiest of Toast? Why do you refuse it? If you do not
+    rase your Left hand then you can go Right to bed to sleep your punishment away." '
+  otherStates:
+  - {fileID: 11400000, guid: d5160596d12b9a64a9caf2716b9cbfe7, type: 2}
+  - {fileID: 11400000, guid: 000fb55e08a2c8542ac8c1d890cefe7e, type: 2}

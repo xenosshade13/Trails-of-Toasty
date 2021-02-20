@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 423b6d16b78fbdc4ab9c6a91a5fb7fc8, type: 3}
+  m_Name: The court
+  m_EditorClassIdentifier: 
+  gameText: You see toast, not just any toast however, but the toastiest of toast,
+    it speaks, "Raise your left hand to continue the hearing or raise your right
+    hand if you want to plead not Toasty"
+  otherStates:
+  - {fileID: 11400000, guid: 67ea8ecfef0fc0841aa38cfb6e0c5de0, type: 2}
+  - {fileID: 11400000, guid: 71d440c1955cbc647924ba1ab7fd1f59, type: 2}

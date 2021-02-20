@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 423b6d16b78fbdc4ab9c6a91a5fb7fc8, type: 3}
+  m_Name: The judge
+  m_EditorClassIdentifier: 
+  gameText: '"You must go to the table for your trial to begin, if not you may sleep
+    on the bed over there behind you." Go Left to the bed, or go Right to the table.'
+  otherStates:
+  - {fileID: 11400000, guid: 000fb55e08a2c8542ac8c1d890cefe7e, type: 2}
+  - {fileID: 11400000, guid: f53e153a385d42742bb24c1cbf77e9ee, type: 2}

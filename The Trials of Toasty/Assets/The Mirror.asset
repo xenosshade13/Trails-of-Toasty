@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 423b6d16b78fbdc4ab9c6a91a5fb7fc8, type: 3}
+  m_Name: The Mirror
+  m_EditorClassIdentifier: 
+  gameText: You walk towards the mirror in the new room and look at yourself. For
+    you are a piece of Toast yourself, you lament on the idea you were anything different.
+    you are the Level of Toasty you see in yourself. You choose to sleep, content.
+  otherStates:
+  - {fileID: 11400000, guid: 000fb55e08a2c8542ac8c1d890cefe7e, type: 2}
+  - {fileID: 11400000, guid: 000fb55e08a2c8542ac8c1d890cefe7e, type: 2}

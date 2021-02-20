@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 423b6d16b78fbdc4ab9c6a91a5fb7fc8, type: 3}
+  m_Name: The victim
+  m_EditorClassIdentifier: 
+  gameText: You see Toast, not just any toast however, the toastiest of toast. Do
+    you look left again to see what is behind you, or look right to procede with
+    the hearing?
+  otherStates:
+  - {fileID: 11400000, guid: c506bdec618fac04a9dc778df41ee150, type: 2}
+  - {fileID: 11400000, guid: cb0a165d33607bb4e887128166b0f8ae, type: 2}
